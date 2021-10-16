@@ -1,0 +1,18 @@
+{
+  "Node": "Node",
+  "Nodes": "Nodes",
+  "Edit": "Editare modul",
+  "Add": "Adaugă modul",
+  "Update": "Actualizare modul",
+  "Delete": "Șterge modul",
+  "PublicHost": "Host Public",
+  "PublicPort": "Port Public",
+  "PrivateHost": "Host Privat",
+  "PrivatePort": "Port privat",
+  "SftpPort": "Port SFTP",
+  "SaveConfig": "Salvează configurația",
+  "SavePublicKey": "Salvează cheia publică",
+  "DeploymentInstruction": "Pentru a implementa acest modul, instalati PufferPanel pe noul server si plasati fisierul de configurare in `/etc/pufferpanel/`<br/>Reporniţi PufferPanel pe noul server dupa.",
+  "UpdateSuccess": "Actualizare reusita",
+  "UpdateError": "Eroare la actualizarea nodeului"
+}

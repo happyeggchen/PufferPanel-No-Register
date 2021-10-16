@@ -1,0 +1,17 @@
+*.exe
+*.test
+*.prof
+.idea/
+*.iml
+.DS_Store
+
+
+logs/
+config.json
+*/node_modules/*
+vendor/
+client/dist/
+*.pem
+client/node_modules/
+web/swagger/swagger.json
+web/swagger/swagger.yaml

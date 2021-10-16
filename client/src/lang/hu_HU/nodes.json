@@ -1,0 +1,18 @@
+{
+  "Node": "Csomópont",
+  "Nodes": "Csomópontok",
+  "Edit": "Csomópont szerkesztése",
+  "Add": "Új csomópont",
+  "Update": "Csomópont frissítése",
+  "Delete": "Csomópont törlése",
+  "PublicHost": "Nyilvános kiszolgáló",
+  "PublicPort": "Nyilvános port",
+  "PrivateHost": "Privát kiszolgáló",
+  "PrivatePort": "Privát port",
+  "SftpPort": "SFTP port",
+  "SaveConfig": "Konfiguráció mentése",
+  "SavePublicKey": "Nyílvános kulcs mentése",
+  "DeploymentInstruction": "A csomópont berendezéséhez telepítse a PufferPanelt az új szerveren és helyezze a konfigurációs fájlt a következő helyre: `/etc/pufferpanel/`<br/>Majd indítsa újra a PufferPanelt az új szerveren.",
+  "UpdateSuccess": "Csomópont sikeresen frissítve",
+  "UpdateError": "Hiba történt a csomópont frissítése közben"
+}

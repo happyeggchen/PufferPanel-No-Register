@@ -1,0 +1,110 @@
+{
+  "Templates": "Plantillas",
+  "NoTemplates": "Todavía no hay plantillas",
+  "Deleted": "Plantilla borrada",
+  "New": "Crear nueva plantilla",
+  "Edit": "Modificar plantilla",
+  "Editor": "Editor",
+  "Json": "JSON",
+  "Display": "Nombre para mostrar",
+  "Type": "Tipo",
+  "Variables": "Variables",
+  "Install": "Instalar",
+  "AddInstallStep": "Añadir paso de instalación",
+  "DeleteInstallStep": "Eliminar paso de instalación",
+  "Description": "Descripción",
+  "DataType": "Tipo de datos",
+  "DefaultValue": "Valor por defecto",
+  "Required": "Requerido",
+  "UserEditable": "Usuarios pueden editar",
+  "Value": "Valor",
+  "AddOption": "Agregar una opción",
+  "AddCommand": "Añadir comando",
+  "Filename": "Nombre del archivo",
+  "Content": "Contenido",
+  "Source": "Fuente",
+  "Target": "Objetivo",
+  "Version": "Versión",
+  "ReleaseType": "Tipo de Lanzamiento",
+  "AddFile": "Añadir Archivo",
+  "AddVariable": "Añadir variable",
+  "Environment": "Environment",
+  "Environments": "Environments",
+  "AddEnvironment": "Añadir entorno",
+  "DefaultEnvironment": "Default environment",
+  "AddEnvVar": "Añadir variable de entorno",
+  "EnvVars": "Variables de entorno",
+  "DockerImage": "Imagen de Docker",
+  "SaveSuccess": "Plantillas guardadas",
+  "VarNameNoSpaces": "Un nombre de variable no puede estar vacío o contener espacios",
+  "SupportedEnvironments": "Entornos soportados",
+  "RunConfig": "Opciones de ejecución",
+  "PreHook": "Hook antes de ejecución",
+  "PostHook": "Hook después de ejecución",
+  "AddPreStep": "Añadir paso antes de ejecución",
+  "AddPostStep": "Añadir paso después de ejecución",
+  "DeletePreStep": "Eliminar paso antes de ejecución",
+  "DeletePostStep": "Eliminar paso después de ejecución",
+  "Shutdown": "Apagar",
+  "Command": "Comando",
+  "WorkingDirectory": "Working Directory",
+  "Arguments": "Argumentos",
+  "AddArgument": "Añadir argumento",
+  "Convert": "Convert",
+  "OfferV1Convert": "This template json looks like a template for PufferPanel 1.x, do you want to automatically convert this to a template for PufferPanel 2.x?",
+  "import": {
+    "OverrideWarning": "ADVERTENCIA: Las plantillas importadas sobrescribirán las plantillas existentes con el mismo ID",
+    "Import": "Importar plantillas",
+    "Tooltip": "Importar plantillas del repositorio oficial",
+    "Select": "Seleccionar plantillas a importar",
+    "Started": "Importando plantillas, por favor espere un momento",
+    "Successful": "Plantilla {template} importada correctamente",
+    "NoTemplatesTitle": "¿Quieres importar plantillas?",
+    "NoTemplatesContent": "Actualmente no tienes ninguna plantilla. Las plantillas son necesarias para crear servidores.<br/>¿Desea importar algunas plantillas desde el repositorio oficial de plantillas de PufferPanel?"
+  },
+  "stop": {
+    "Command": "Comando",
+    "Signal": "Señal"
+  },
+  "processors": {
+    "download": {
+      "ProcessorName": "Descargar",
+      "files": "Archivos"
+    },
+    "command": {
+      "ProcessorName": "Run Command",
+      "commands": "Comandos"
+    },
+    "alterfile": {
+      "ProcessorName": "Change file",
+      "regex": "Treat search as RegEx",
+      "search": "Text to search",
+      "replace": "Replace with"
+    },
+    "writefile": {
+      "ProcessorName": "Escribir al archivo",
+      "text": "Contenido"
+    },
+    "move": {
+      "ProcessorName": "Mover Archivo",
+      "source": "Fuente",
+      "target": "Objetivo"
+    },
+    "mkdir": {
+      "ProcessorName": "Crear directorio"
+    },
+    "mojangdl": {
+      "ProcessorName": "Descargar Minecraft"
+    },
+    "forgedl": {
+      "ProcessorName": "Descargar Minecraft Forge"
+    },
+    "spongeforgedl": {
+      "ProcessorName": "Descargar Minecraft SpongeForge",
+      "releaseType": "Tipo de Lanzamiento"
+    },
+    "fabricdl": {
+      "ProcessorName": "Descargar Minecraft Fabric"
+    }
+  }
+}

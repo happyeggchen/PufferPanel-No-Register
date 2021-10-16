@@ -1,0 +1,18 @@
+{
+  "Node": "Nod",
+  "Nodes": "Noder",
+  "Edit": "Redigera nod",
+  "Add": "Lägg till node",
+  "Update": "Uppdatera nod",
+  "Delete": "Ta bort nod",
+  "PublicHost": "Offentlig värd",
+  "PublicPort": "Offentlig port",
+  "PrivateHost": "Privat värd",
+  "PrivatePort": "Privat port",
+  "SftpPort": "SFTP-port",
+  "SaveConfig": "Spara konfiguration",
+  "SavePublicKey": "Spara publik nyckel",
+  "DeploymentInstruction": "To deploy the node, install PufferPanel on the new server and place the config file in `/etc/pufferpanel/`<br/>Restart PufferPanel on the new server afterwards.",
+  "UpdateSuccess": "Uppdatering av nod lyckades",
+  "UpdateError": "Fel vid uppdatering av nod"
+}

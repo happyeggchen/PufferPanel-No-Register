@@ -1,0 +1,19 @@
+{
+  "FileManager": "Administrador de Archivos",
+  "NewFolder": "Nueva capreta",
+  "NewFile": "Nuevo Archivo",
+  "LastModified": "Última modificación",
+  "ConfirmDelete": "¿Estás seguro que quieres borrar este archivo?",
+  "Upload": "Cargar",
+  "Download": "Descargar",
+  "Size": "Tamaño",
+  "NoFiles": "Todavía no hay archivos, vaya y cree algunos por ejemplo haciendo clic en el botón de instalar en la parte superior de la página",
+  "FileLoadFailed": "Error al cargar el archivo",
+  "Refresh": "Refrescar",
+  "CreateFile": "Crear archivo",
+  "CreateFolder": "Crear carpeta",
+  "ArchiveCurrentFolder": "Crear un archivo en la carpeta actual",
+  "ArchiveFolder": "Crear archivo desde esta carpeta",
+  "ExtractArchive": "Extraer archivo",
+  "DropToUpload": "Arrastra archivos para subirlos"
+}

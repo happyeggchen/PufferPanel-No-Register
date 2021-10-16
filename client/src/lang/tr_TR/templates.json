@@ -1,0 +1,110 @@
+{
+  "Templates": "Şablonlar",
+  "NoTemplates": "Burada henüz şablon yok",
+  "Deleted": "Şablon silindi",
+  "New": "Yeni şablon oluştur",
+  "Edit": "Şablon düzenle",
+  "Editor": "Düzenleyici",
+  "Json": "JSON",
+  "Display": "Görüntülenen İsim",
+  "Type": "Tür",
+  "Variables": "Değişkenler",
+  "Install": "Kurulum",
+  "AddInstallStep": "Kurulum aşaması ekle",
+  "DeleteInstallStep": "Kurulum aşaması sil",
+  "Description": "Açıklama",
+  "DataType": "Veri Tipi",
+  "DefaultValue": "Varsayılan Değer",
+  "Required": "Gerekli",
+  "UserEditable": "Kullanıcılar düzenleyebilir",
+  "Value": "Değer",
+  "AddOption": "Bir seçenek ekle",
+  "AddCommand": "Komut Ekle",
+  "Filename": "Dosya Adı",
+  "Content": "İçerik",
+  "Source": "Kaynak",
+  "Target": "Hedef",
+  "Version": "Versiyon",
+  "ReleaseType": "Yayın Türü",
+  "AddFile": "Dosya ekle",
+  "AddVariable": "Değişken ekle",
+  "Environment": "Ortam",
+  "Environments": "Ortamlar",
+  "AddEnvironment": "Ortam ekle",
+  "DefaultEnvironment": "Varsayılan Ortam",
+  "AddEnvVar": "Bir ortam değişkeni ekle",
+  "EnvVars": "Ortam Değişkenleri",
+  "DockerImage": "Docker Görüntüsü",
+  "SaveSuccess": "Şablon Kaydedildi",
+  "VarNameNoSpaces": "Değişken adı boş olamaz veya boşluk içeremez",
+  "SupportedEnvironments": "Desteklenen Ortamlar",
+  "RunConfig": "Yapılandırmayı Çalıştır",
+  "PreHook": "Pre Run Hook",
+  "PostHook": "Post Run Hook",
+  "AddPreStep": "Add Pre Run Step",
+  "AddPostStep": "Add Post Run Step",
+  "DeletePreStep": "Delete Pre Run Step",
+  "DeletePostStep": "Delete Post Run Step",
+  "Shutdown": "Kapat",
+  "Command": "Komut",
+  "WorkingDirectory": "Working Directory",
+  "Arguments": "Argümanlar",
+  "AddArgument": "Argüman Ekle",
+  "Convert": "Convert",
+  "OfferV1Convert": "This template json looks like a template for PufferPanel 1.x, do you want to automatically convert this to a template for PufferPanel 2.x?",
+  "import": {
+    "OverrideWarning": "UYARI: İçe aktarılan şablonlar, Mevcut şablonların üzerine YAZILACAK",
+    "Import": "Şablonları içe aktar",
+    "Tooltip": "Import templates from the official repository",
+    "Select": "Select templates to import",
+    "Started": "Importing templates, please wait a moment",
+    "Successful": "Successfully imported template {template}",
+    "NoTemplatesTitle": "Do you want to import templates?",
+    "NoTemplatesContent": "You currently don't have any templates. Templates are necessary to create servers.<br/>Do you want to import some templates from the official PufferPanel templates repository now?"
+  },
+  "stop": {
+    "Command": "Komut",
+    "Signal": "Sinyal"
+  },
+  "processors": {
+    "download": {
+      "ProcessorName": "İndir",
+      "files": "Dosyalar"
+    },
+    "command": {
+      "ProcessorName": "Komut Çalıştır",
+      "commands": "Komutlar"
+    },
+    "alterfile": {
+      "ProcessorName": "Change file",
+      "regex": "Treat search as RegEx",
+      "search": "Text to search",
+      "replace": "Replace with"
+    },
+    "writefile": {
+      "ProcessorName": "Dosyaya Yaz",
+      "text": "İçerik"
+    },
+    "move": {
+      "ProcessorName": "Dosya Taşı",
+      "source": "Kaynak",
+      "target": "Hedef"
+    },
+    "mkdir": {
+      "ProcessorName": "Dizin Oluştur"
+    },
+    "mojangdl": {
+      "ProcessorName": "Minecraft İndir"
+    },
+    "forgedl": {
+      "ProcessorName": "Minecraft Forge İndir"
+    },
+    "spongeforgedl": {
+      "ProcessorName": "Minecraft SpongeForge İndir",
+      "releaseType": "Release Type"
+    },
+    "fabricdl": {
+      "ProcessorName": "Minecraft Fabric İndir"
+    }
+  }
+}

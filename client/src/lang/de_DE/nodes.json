@@ -1,0 +1,18 @@
+{
+  "Node": "Knoten",
+  "Nodes": "Knoten",
+  "Edit": "Knoten bearbeiten",
+  "Add": "Knoten hinzufügen",
+  "Update": "Knoten aktualisieren",
+  "Delete": "Knoten löschen",
+  "PublicHost": "Öffentlicher Host",
+  "PublicPort": "Öffentlicher Port",
+  "PrivateHost": "Privater Host",
+  "PrivatePort": "Privater Port",
+  "SftpPort": "SFTP-Port",
+  "SaveConfig": "Konfiguration speichern",
+  "SavePublicKey": "Öffentlichen Schlüssel speichern",
+  "DeploymentInstruction": "Um den Knoten bereitzustellen, installieren Sie PufferPanel auf dem neuen Server und platzieren Sie die Konfigurationsdatei in `/etc/pufferpanel/`<br/>Starten Sie PufferPanel anschließend auf dem neuen Server neu.",
+  "UpdateSuccess": "Knoten erfolgreich aktualisiert",
+  "UpdateError": "Fehler beim Aktualisieren des Knotens"
+}
